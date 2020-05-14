@@ -1,0 +1,3 @@
+[submodule "tetra"]
+	path = tetra
+	url = git@github.com:NonJam/tetra.git
